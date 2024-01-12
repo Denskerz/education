@@ -1,0 +1,17 @@
+﻿  figury.cpp
+C:\Users\denis\source\repos\figury\figury\figury.cpp(181,104): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(182,98): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(183,103): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(183,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(184,74): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(185,73): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(186,80): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(186,40): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(187,71): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(242,40): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\Users\denis\source\repos\figury\figury\figury.cpp(242,40): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(244,28): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\Users\denis\source\repos\figury\figury\figury.cpp(244,28): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+C:\Users\denis\source\repos\figury\figury\figury.cpp(246,28): warning C4838: Преобразование из "double" в "LONG" требует сужающего преобразования.
+C:\Users\denis\source\repos\figury\figury\figury.cpp(246,28): warning C4244: инициализация: преобразование "double" в "LONG", возможна потеря данных
+  figury.vcxproj -> C:\Users\denis\source\repos\figury\x64\Debug\figury.exe
